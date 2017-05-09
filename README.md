@@ -3,4 +3,5 @@ Research to decrease the time complexity to find the Pareto Frontier
 
 
 Project Collaborators: 
-  - Sai Gautam Pedamallu
+  - Sai Pedamallu
+    - https://github.com/jrsai 
