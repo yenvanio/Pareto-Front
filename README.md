@@ -17,12 +17,12 @@ Create a Pareto Frontier
 Initialize it with the first point from the list
 
 Loop through the list
-  If Max Y Value
-  .  If current pair in list >= previous pair in Pareto Frontier (Finding Higher Y Values)
-  .   Add pair to Pareto Frontier
-  Else
-    If current pair in list <= previous pair in Pareto Frontier (Finding Lower Y Values)
-      Add pair to Pareto Frontier
+.  If Max Y Value
+.  .  If current pair in list >= previous pair in Pareto Frontier (Finding Higher Y Values)
+.  .   Add pair to Pareto Frontier
+.  Else
+.    If current pair in list <= previous pair in Pareto Frontier (Finding Lower Y Values)
+.      Add pair to Pareto Frontier
 Return Pair.
 
 ```
