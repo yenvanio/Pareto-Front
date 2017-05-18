@@ -1,7 +1,8 @@
 ## Pre-existing Algorithms that are being used for Non-dominant Sorting
 
 ```
-Algorithm: Kung's Algorithm
+<b>Algorithm:</b> Kung's Algorithm
+
 Sort the population in descending order of importance in the first objective function and rename the population as P of size N.
 Front(P):
 if |P| ← 1 then 
